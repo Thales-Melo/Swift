@@ -13,3 +13,11 @@ carros["Fusca"] = 9999999
 for (nome, valor) in carros {
     print("O carro \(nome) custa \(valor) reais")
 }
+
+
+// OUTPUT
+// O carro Palio custa 20000 reais
+// O carro BYD custa 700000 reais
+// O carro Fusca custa 9999999 reais
+// O carro Gol custa 10000 reais
+// O carro Mercedes custa 400000 reais
